@@ -1,0 +1,2 @@
+rootProject.name = "ovningEtt"
+include ':app'
